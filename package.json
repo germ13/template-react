@@ -1,0 +1,23 @@
+{
+  "name": "template-react",
+  "version": "1.0.0",
+  "description": "basic react template.  creates basic structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/germ13/template-react"
+  },
+  "keywords": [
+    "react",
+    "template"
+  ],
+  "author": "germ13",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
